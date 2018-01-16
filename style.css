@@ -1,15 +1,29 @@
 header{
 	background:url("logo.jpg") center center no-repeat;
-	color:#fff;
 	text-align:center;
 	background-size: auto;
-	padding: 200px 30px 100px 30px;
+	padding: 157px 20px 157px 20px;
 
 }
 header>h1{
-	font-size: 4em;
+	font-size: 5em;
 	font-family: 'Raleway Dots', cursive;
 	font-style: italic;
-	margin-bottom: 25px;
+}
+
+.imgleft{
+	float: left;
+	margin: 0 30px 20px 0;
+	width: 400px;
+}
+
+aside>p{
+	font-size: 2em;
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	color: black;
+}
+section>h1{
+	font-size: 3.5em;
 }
 
