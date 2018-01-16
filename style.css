@@ -1,0 +1,15 @@
+header{
+	background:url("logo.jpg") center center no-repeat;
+	color:#fff;
+	text-align:center;
+	background-size: auto;
+	padding: 200px 30px 100px 30px;
+
+}
+header>h1{
+	font-size: 4em;
+	font-family: 'Raleway Dots', cursive;
+	font-style: italic;
+	margin-bottom: 25px;
+}
+
